@@ -15,7 +15,7 @@ function App() {
 
   function getTitle() {
     // This function manage the H1 text, depending on the weather
-    return isRaining? 'Rain Time !' : 'Sunny Time !';
+    return isRaining? 'Rain Time !!' : 'Sunny Time !!';
   }
 
   function getBackgroundColor() {
